@@ -26,9 +26,10 @@ The IMDB reviews and tweets can be found in the data folder. These have already 
 
 #### Output
 
-| |Output||
+|Command     |Output       |
+|----------- |------------ |
 | Command | Naive Bayes | Logistic Regression|
-| python sentiment.py data/imdb/ 0 ||
+
 
 
 
