@@ -25,6 +25,17 @@ The IMDB reviews and tweets can be found in the data folder. These have already 
 - evaluate_model: Here you will have to calculate the true positives, false positives, true negatives, false negatives, and accuracy.
 
 #### Output
+
+##### NLP Technique applied on IMDB Dataset
+![Alt text](imgs/imdb0.png "NLP Output on IMDB Dataset")
+
+##### Word2Vec Technique applied on IMDB Dataset
+![Alt text](imgs/imdb1.png "NLP Output on IMDB Dataset")
+
+##### NLP Technique applied on Twitter Dataset
+![Alt text](imgs/twitter0.png "NLP Output on IMDB Dataset")
+
+##### Word2Vec Technique applied on Twitter Dataset
 ![Alt text](imgs/imdb0.png "NLP Output on IMDB Dataset")
 
 
