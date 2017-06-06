@@ -23,3 +23,12 @@ The IMDB reviews and tweets can be found in the data folder. These have already 
 - feature_vecs_DOC: Some documentation for the doc2vec package can be found [here](https://radimrehurek.com/gensim/models/doc2vec.html). The first thing you will want to do is make a list of LabeledSentence objects from the word lists. These objects consist of a list of words and a list containing a single string label. You will want to use a different label for the train/test and pos/neg sets. For example, we used TRAIN_POS_i, TRAIN_NEG_i, TEST_POS_i, and TEST_NEG_i, where i is the line number. [This blog](https://rare-technologies.com/doc2vec-tutorial/) may be a helpful reference.
 - build_models_DOC: Similar to the other function.
 - evaluate_model: Here you will have to calculate the true positives, false positives, true negatives, false negatives, and accuracy.
+
+#### Output
+
+| |Output||
+| Command | Naive Bayes | Logistic Regression|
+| python sentiment.py data/imdb/ 0 ||
+
+
+
