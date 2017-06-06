@@ -26,9 +26,6 @@ The IMDB reviews and tweets can be found in the data folder. These have already 
 
 #### Output
 
-|Command     |Output       |
-|----------- |------------ |
-| Command | Naive Bayes | Logistic Regression|
 
 
 
