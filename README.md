@@ -33,10 +33,10 @@ The IMDB reviews and tweets can be found in the data folder. These have already 
 ![Alt text](imgs/imdb1.png "NLP Output on IMDB Dataset")
 
 ##### NLP Technique applied on Twitter Dataset
-![Alt text](imgs/twitter0.png "NLP Output on IMDB Dataset")
+![Alt text](imgs/twitter0.png "NLP Output on Twitter Dataset")
 
 ##### Word2Vec Technique applied on Twitter Dataset
-![Alt text](imgs/imdb0.png "NLP Output on IMDB Dataset")
+![Alt text](imgs/twitter1.png "Doc2Vec Output on Twitter Dataset")
 
 
 
