@@ -10,7 +10,11 @@ We explored two methods:
  - The Doc2Vec technique where document vectors are learned via artificial neural networks (a summary can be found [here](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)).
 
 #### Project Setup
-The python packages that you will need for this project are scikitlearn, nltk, and gensim. To install these, simply use the pip installer sudo pip install X or, if you are using Anaconda, conda install X , where X is the package name.
+The python packages that you will need for this project are scikitlearn, nltk, and gensim. To install these, use pip installer: 
+```sudo pip install X``` 
+Or, if you are using Anaconda, 
+```conda install X``` 
+where X is the package name.
 
 #### Datasets
 The IMDB reviews and tweets can be found in the data folder. These have already been divided into train and test sets.
